@@ -1,6 +1,6 @@
 # Locking-DT-RF
 
-The step-by-step annotated source code is available in the Jupyter notebook file. It uses MNISt dataset. 
+The step-by-step annotated source code is available in the Jupyter notebook file. It uses MNIST dataset. 
 
 Currently, it only shows the locking simulated in software. In the future, we plan to add the logic to generate the Verilog HDL file and then generate the Quartus project to do synthesis, bitstream generation, and, finally, demonstration on the FPGA board.
 
