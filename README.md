@@ -15,3 +15,5 @@ Decision Tree Architecture:
 Locked Decision Treee Architecture:
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/Locked_decision_tree.png)
 
+
+In future, the locking of random forest will be added. 
