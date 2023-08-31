@@ -9,7 +9,7 @@ Once the HDL state machine is generated, the RTL FSM is copied from the respecti
 The Quartus project is given in folders "XOR_all_nodes", "XNOR_all_nodes", "XOR_XNOR_all_nodes", and "XOR_XNOR_Some_nodes". After the "sof" (bitstream) file is generated, it is loaded into the FPGA. Currently, these folders are kept private and will be resealed after the publication of the paper. The demo of inferencing for the  "XOR_XNOR_Some_nodes" case is shown in the video "demo - XOR_XNOR_Some_nodes". The jupyter notebook file to show the inferencing demo is "LockedDecisionTreeInferencing.ipynb". This is also kept private.
 
 Decision Tree Architecture:
-![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/decision_tree_diagram-1.png)
+![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/decision_tree_diagram.png)
 
 
 Locked Decision Treee Architecture:
