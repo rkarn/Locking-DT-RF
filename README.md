@@ -4,6 +4,7 @@ Dependency:
   - Scikit-learn
   - Numpy
   - MNIST Dataset (link provided in ".ipynb" file.)
+  - idx2numpy
     
 The step-by-step annotated source code is available in the Jupyter Notebook file. It uses the MNIST dataset. 
 
