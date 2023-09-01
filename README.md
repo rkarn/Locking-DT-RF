@@ -1,5 +1,10 @@
 # Locking-DT-RF
 
+Dependency: 
+  - Scikit-learn
+  - Numpy
+  - MNIST Dataset (link provided in ".ipynb" file.)
+    
 The step-by-step annotated source code is available in the Jupyter Notebook file. It uses the MNIST dataset. 
 
 The locking simulated in software is available in "MNIST Decision Tree Random Key locking.ipynb". The logic to generate the Verilog HDL file is also given in this jupyter notebook.
@@ -16,10 +21,10 @@ Decision Tree Architecture:
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/decision_tree_diagram.png)
 
 
-Locked Decision Tree Architecture:
+Locked Decision Tree Architecture: "MNIST Decision Tree Random Key locking.ipynb"
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/Locked_decision_tree.png)
 
-Another Locked Decision Tree Architecture:
+Another Locked Decision Tree Architecture: "MNIST Decision Tree Random Key locking _circuit_changed.ipynb"
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/Locked_decision_tree_different_ckt.png)
 
 
