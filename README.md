@@ -25,6 +25,8 @@ Decision Tree Architecture:
 Locked Decision Tree Architecture: "MNIST Decision Tree Random Key locking.ipynb"
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/Locked_decision_tree.png)
 
+The same locking for datasets wearable, wireless, activities, and accdel are also given in their respective notebook file. Their dataset csv files are also added.
+
 Another Locked Decision Tree Architecture: "MNIST Decision Tree Random Key locking _circuit_changed.ipynb"
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/Locked_decision_tree_different_ckt.png)
 
