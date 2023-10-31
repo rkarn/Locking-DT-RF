@@ -9,7 +9,9 @@ Dependency:
     
 The step-by-step annotated source code is available in the Jupyter Notebook file inside each dataset folder.  
 
-The locking simulated in software is available in "Software Analysis DT <Dataset Name> Random Key locking.ipynb". The logic to generate the Verilog HDL file is also given in another notebook named "HDL Generation <Dataset Name> RF.ipynb".
+The locking simulated in software is available in "Software Analysis DT <Dataset Name> Random Key locking.ipynb". These are perfomed for the decision tree only because for the random forest, the same analysis could repeat for several trees. In this notebook, the decison rules are extracted kept inside a python function. The locking scheme is then applied on such rules in the python function. The accuracy of model using sklearn and the generated python function is compared to verify the accuracy after locking. Further, the brute force attack is applied on the locked function to test the accuracy when wrong key is used.
+
+The logic to generate the Verilog HDL file is given in another notebook named "HDL Generation <Dataset Name> RF.ipynb". Extracted decision rules are available in "Decision_rules_<Dataset Name>.txt" and "Locked_Decision_rules_<Dataset Name>.txt" for unlocked and locked random forest respectively.
 
 Another locking mechanism with a compact circuit is shown in "MNIST Decision Tree Random Key locking _circuit_changed.ipynb" where the extra AND operation is removed from the output. This circuit has been used to generate HDLs for all the dataset.
 
