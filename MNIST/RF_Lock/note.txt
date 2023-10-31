@@ -1,0 +1,15 @@
+Move slide switch sw0 to 1 to reset and back to 0 to initiate the communication.
+
+After that, send the pixels from PC through UART.
+
+Left side three seg7 display shows the memory write address of RAM that holds pixels. Display in hex format.
+
+Right side  three seg7 display shows the memory read address of RAM that holds the pixel. To initiate the transmission, it should be 0. Display in hex format.
+
+Then slide sw0 to 1 to complete the receiving and back to 0 to initiate the transmitting.
+
+Then slide sw1 to 1 to trigger the transmitting. Then back to 0 to complete the transmitting. 
+
+Slide sw2 to 1 to display the label of the inference. 
+
+Left side three seg7 display shows the length of pixels that is written to the memory. 

@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at de10_standard.v(15): object "KEY" differs only in case from object "key" in the same scope File: C:/Quartus_Projects/DecisionTree_Seq_logic_locking/XNOR_all_nodes/de10_standard.v Line: 15
+Warning (10268): Verilog HDL information at de10_standard.v(826): always construct contains both blocking and non-blocking assignments File: C:/Quartus_Projects/DecisionTree_Seq_logic_locking/XNOR_all_nodes/de10_standard.v Line: 826

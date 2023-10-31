@@ -1,0 +1,757 @@
+  0:if ((pixels[350] <= 141) && ((pixels[350] <= 141) ^ key)==(pixels[350] <= 141)) 
+    1:if ((pixels[568] <= 0) && ((pixels[568] <= 0) ^ key)==(pixels[568] <= 0)) 
+      2:if ((pixels[430] <= 0) && ((pixels[430] <= 0) ^ key)==(pixels[430] <= 0)) 
+        3:if ((pixels[405] <= 0) && ((pixels[405] <= 0) ^ key)==(pixels[405] <= 0)) 
+          4:if ((pixels[484] <= 39) && ((pixels[484] <= 39) ^ key)==(pixels[484] <= 39)) 
+            5:if ((pixels[154] <= 1) && ((pixels[154] <= 1) ^ key)==(pixels[154] <= 1)) 
+              6:if ((pixels[594] <= 6) && ((pixels[594] <= 6) ^ key)==(pixels[594] <= 6)) 
+                7:if ((pixels[157] <= 1) && ((pixels[157] <= 1) ^ key)==(pixels[157] <= 1)) 
+                   Label<=7;
+                7:else 
+                   Label<=1;
+              6:else 
+                10:if ((pixels[481] <= 28) && ((pixels[481] <= 28) ^ key)==(pixels[481] <= 28)) 
+                   Label<=5;
+                10:else 
+                   Label<=0;
+            5:else 
+              13:if ((pixels[509] <= 22) && ((pixels[509] <= 22) ^ key)==(pixels[509] <= 22)) 
+                14:if ((pixels[571] <= 9) && ((pixels[571] <= 9) ^ key)==(pixels[571] <= 9)) 
+                   Label<=3;
+                14:else 
+                   Label<=2;
+              13:else 
+                17:if ((pixels[350] <= 3) && ((pixels[350] <= 3) ^ key)==(pixels[350] <= 3)) 
+                   Label<=0;
+                17:else 
+                   Label<=3;
+          4:else 
+            20:if ((pixels[211] <= 53) && ((pixels[211] <= 53) ^ key)==(pixels[211] <= 53)) 
+              21:if ((pixels[487] <= 153) && ((pixels[487] <= 153) ^ key)==(pixels[487] <= 153)) 
+                22:if ((pixels[543] <= 179) && ((pixels[543] <= 179) ^ key)==(pixels[543] <= 179)) 
+                   Label<=7;
+                22:else 
+                   Label<=6;
+              21:else 
+                25:if ((pixels[399] <= 4) && ((pixels[399] <= 4) ^ key)==(pixels[399] <= 4)) 
+                   Label<=2;
+                25:else 
+                   Label<=4;
+            20:else 
+              28:if ((pixels[437] <= 1) && ((pixels[437] <= 1) ^ key)==(pixels[437] <= 1)) 
+                29:if ((pixels[386] <= 2) && ((pixels[386] <= 2) ^ key)==(pixels[386] <= 2)) 
+                   Label<=5;
+                29:else 
+                   Label<=0;
+              28:else 
+                32:if ((pixels[427] <= 0) && ((pixels[427] <= 0) ^ key)==(pixels[427] <= 0)) 
+                   Label<=7;
+                32:else 
+                   Label<=9;
+        3:else 
+          35:if ((pixels[516] <= 0) && ((pixels[516] <= 0) ^ key)==(pixels[516] <= 0)) 
+            36:if ((pixels[353] <= 2) && ((pixels[353] <= 2) ^ key)==(pixels[353] <= 2)) 
+              37:if ((pixels[322] <= 10) && ((pixels[322] <= 10) ^ key)==(pixels[322] <= 10)) 
+                38:if ((pixels[355] <= 12) && ((pixels[355] <= 12) ^ key)==(pixels[355] <= 12)) 
+                   Label<=5;
+                38:else 
+                   Label<=4;
+              37:else 
+                41:if ((pixels[546] <= 38) && ((pixels[546] <= 38) ^ key)==(pixels[546] <= 38)) 
+                   Label<=3;
+                41:else 
+                   Label<=1;
+            36:else 
+              44:if ((pixels[346] <= 1) && ((pixels[346] <= 1) ^ key)==(pixels[346] <= 1)) 
+                45:if ((pixels[652] <= 59) && ((pixels[652] <= 59) ^ key)==(pixels[652] <= 59)) 
+                   Label<=3;
+                45:else 
+                   Label<=3;
+              44:else 
+                48:if ((pixels[210] <= 6) && ((pixels[210] <= 6) ^ key)==(pixels[210] <= 6)) 
+                   Label<=4;
+                48:else 
+                   Label<=9;
+          35:else 
+            51:if ((pixels[376] <= 16) && ((pixels[376] <= 16) ^ key)==(pixels[376] <= 16)) 
+              52:if ((pixels[208] <= 1) && ((pixels[208] <= 1) ^ key)==(pixels[208] <= 1)) 
+                53:if ((pixels[289] <= 0) && ((pixels[289] <= 0) ^ key)==(pixels[289] <= 0)) 
+                   Label<=1;
+                53:else 
+                   Label<=7;
+              52:else 
+                56:if ((pixels[710] <= 15) && ((pixels[710] <= 15) ^ key)==(pixels[710] <= 15)) 
+                   Label<=2;
+                56:else 
+                   Label<=7;
+            51:else 
+              59:if ((pixels[658] <= 1) && ((pixels[658] <= 1) ^ key)==(pixels[658] <= 1)) 
+                60:if ((pixels[459] <= 14) && ((pixels[459] <= 14) ^ key)==(pixels[459] <= 14)) 
+                   Label<=9;
+                60:else 
+                   Label<=6;
+              59:else 
+                63:if ((pixels[434] <= 85) && ((pixels[434] <= 85) ^ key)==(pixels[434] <= 85)) 
+                   Label<=8;
+                63:else 
+                   Label<=8;
+      2:else 
+        66:if ((pixels[211] <= 28) && ((pixels[211] <= 28) ^ key)==(pixels[211] <= 28)) 
+          67:if ((pixels[98] <= 0) && ((pixels[98] <= 0) ^ key)==(pixels[98] <= 0)) 
+            68:if ((pixels[267] <= 121) && ((pixels[267] <= 121) ^ key)==(pixels[267] <= 121)) 
+              69:if ((pixels[95] <= 7) && ((pixels[95] <= 7) ^ key)==(pixels[95] <= 7)) 
+                70:if ((pixels[155] <= 78) && ((pixels[155] <= 78) ^ key)==(pixels[155] <= 78)) 
+                   Label<=4;
+                70:else 
+                   Label<=6;
+              69:else 
+                73:if ((pixels[242] <= 104) && ((pixels[242] <= 104) ^ key)==(pixels[242] <= 104)) 
+                   Label<=6;
+                73:else 
+                   Label<=4;
+            68:else 
+              76:if ((pixels[353] <= 1) && ((pixels[353] <= 1) ^ key)==(pixels[353] <= 1)) 
+                77:if ((pixels[411] <= 114) && ((pixels[411] <= 114) ^ key)==(pixels[411] <= 114)) 
+                   Label<=5;
+                77:else 
+                   Label<=7;
+              76:else 
+                80:if ((pixels[432] <= 12) && ((pixels[432] <= 12) ^ key)==(pixels[432] <= 12)) 
+                   Label<=7;
+                80:else 
+                   Label<=9;
+          67:else 
+            83:if ((pixels[537] <= 24) && ((pixels[537] <= 24) ^ key)==(pixels[537] <= 24)) 
+              84:if ((pixels[242] <= 44) && ((pixels[242] <= 44) ^ key)==(pixels[242] <= 44)) 
+                85:if ((pixels[243] <= 90) && ((pixels[243] <= 90) ^ key)==(pixels[243] <= 90)) 
+                   Label<=6;
+                85:else 
+                   Label<=4;
+              84:else 
+                88:if ((pixels[262] <= 9) && ((pixels[262] <= 9) ^ key)==(pixels[262] <= 9)) 
+                   Label<=2;
+                88:else 
+                   Label<=0;
+            83:else 
+              91:if ((pixels[265] <= 126) && ((pixels[265] <= 126) ^ key)==(pixels[265] <= 126)) 
+                 Label<=2;
+              91:else 
+                 Label<=4;
+        66:else 
+          94:if ((pixels[156] <= 0) && ((pixels[156] <= 0) ^ key)==(pixels[156] <= 0)) 
+            95:if ((pixels[381] <= 2) && ((pixels[381] <= 2) ^ key)==(pixels[381] <= 2)) 
+              96:if ((pixels[217] <= 1) && ((pixels[217] <= 1) ^ key)==(pixels[217] <= 1)) 
+                97:if ((pixels[542] <= 77) && ((pixels[542] <= 77) ^ key)==(pixels[542] <= 77)) 
+                   Label<=9;
+                97:else 
+                   Label<=0;
+              96:else 
+                100:if ((pixels[384] <= 33) && ((pixels[384] <= 33) ^ key)==(pixels[384] <= 33)) 
+                   Label<=5;
+                100:else 
+                   Label<=9;
+            95:else 
+              103:if ((pixels[317] <= 0) && ((pixels[317] <= 0) ^ key)==(pixels[317] <= 0)) 
+                104:if ((pixels[342] <= 1) && ((pixels[342] <= 1) ^ key)==(pixels[342] <= 1)) 
+                   Label<=9;
+                104:else 
+                   Label<=9;
+              103:else 
+                107:if ((pixels[219] <= 18) && ((pixels[219] <= 18) ^ key)==(pixels[219] <= 18)) 
+                   Label<=9;
+                107:else 
+                   Label<=4;
+          94:else 
+            110:if ((pixels[101] <= 1) && ((pixels[101] <= 1) ^ key)==(pixels[101] <= 1)) 
+              111:if ((pixels[656] <= 1) && ((pixels[656] <= 1) ^ key)==(pixels[656] <= 1)) 
+                112:if ((pixels[572] <= 1) && ((pixels[572] <= 1) ^ key)==(pixels[572] <= 1)) 
+                   Label<=4;
+                112:else 
+                   Label<=6;
+              111:else 
+                115:if ((pixels[326] <= 0) && ((pixels[326] <= 0) ^ key)==(pixels[326] <= 0)) 
+                   Label<=5;
+                115:else 
+                   Label<=8;
+            110:else 
+              118:if ((pixels[271] <= 136) && ((pixels[271] <= 136) ^ key)==(pixels[271] <= 136)) 
+                119:if ((pixels[514] <= 3) && ((pixels[514] <= 3) ^ key)==(pixels[514] <= 3)) 
+                   Label<=6;
+                119:else 
+                   Label<=6;
+              118:else 
+                122:if ((pixels[319] <= 24) && ((pixels[319] <= 24) ^ key)==(pixels[319] <= 24)) 
+                   Label<=2;
+                122:else 
+                   Label<=0;
+    1:else 
+      125:if ((pixels[435] <= 0) && ((pixels[435] <= 0) ^ key)==(pixels[435] <= 0)) 
+        126:if ((pixels[489] <= 47) && ((pixels[489] <= 47) ^ key)==(pixels[489] <= 47)) 
+          127:if ((pixels[380] <= 1) && ((pixels[380] <= 1) ^ key)==(pixels[380] <= 1)) 
+            128:if ((pixels[324] <= 177) && ((pixels[324] <= 177) ^ key)==(pixels[324] <= 177)) 
+              129:if ((pixels[73] <= 8) && ((pixels[73] <= 8) ^ key)==(pixels[73] <= 8)) 
+                130:if ((pixels[455] <= 1) && ((pixels[455] <= 1) ^ key)==(pixels[455] <= 1)) 
+                   Label<=0;
+                130:else 
+                   Label<=0;
+              129:else 
+                133:if ((pixels[440] <= 9) && ((pixels[440] <= 9) ^ key)==(pixels[440] <= 9)) 
+                   Label<=0;
+                133:else 
+                   Label<=6;
+            128:else 
+              136:if ((pixels[271] <= 2) && ((pixels[271] <= 2) ^ key)==(pixels[271] <= 2)) 
+                137:if ((pixels[240] <= 124) && ((pixels[240] <= 124) ^ key)==(pixels[240] <= 124)) 
+                   Label<=5;
+                137:else 
+                   Label<=3;
+              136:else 
+                140:if ((pixels[237] <= 21) && ((pixels[237] <= 21) ^ key)==(pixels[237] <= 21)) 
+                   Label<=3;
+                140:else 
+                   Label<=0;
+          127:else 
+            143:if ((pixels[484] <= 25) && ((pixels[484] <= 25) ^ key)==(pixels[484] <= 25)) 
+              144:if ((pixels[374] <= 102) && ((pixels[374] <= 102) ^ key)==(pixels[374] <= 102)) 
+                145:if ((pixels[514] <= 84) && ((pixels[514] <= 84) ^ key)==(pixels[514] <= 84)) 
+                   Label<=3;
+                145:else 
+                   Label<=2;
+              144:else 
+                148:if ((pixels[297] <= 241) && ((pixels[297] <= 241) ^ key)==(pixels[297] <= 241)) 
+                   Label<=5;
+                148:else 
+                   Label<=0;
+            143:else 
+              151:if ((pixels[270] <= 11) && ((pixels[270] <= 11) ^ key)==(pixels[270] <= 11)) 
+                152:if ((pixels[323] <= 143) && ((pixels[323] <= 143) ^ key)==(pixels[323] <= 143)) 
+                   Label<=6;
+                152:else 
+                   Label<=5;
+              151:else 
+                155:if ((pixels[379] <= 230) && ((pixels[379] <= 230) ^ key)==(pixels[379] <= 230)) 
+                   Label<=0;
+                155:else 
+                   Label<=2;
+        126:else 
+          158:if ((pixels[347] <= 1) && ((pixels[347] <= 1) ^ key)==(pixels[347] <= 1)) 
+            159:if ((pixels[344] <= 108) && ((pixels[344] <= 108) ^ key)==(pixels[344] <= 108)) 
+              160:if ((pixels[520] <= 2) && ((pixels[520] <= 2) ^ key)==(pixels[520] <= 2)) 
+                161:if ((pixels[377] <= 209) && ((pixels[377] <= 209) ^ key)==(pixels[377] <= 209)) 
+                   Label<=3;
+                161:else 
+                   Label<=8;
+              160:else 
+                164:if ((pixels[685] <= 27) && ((pixels[685] <= 27) ^ key)==(pixels[685] <= 27)) 
+                   Label<=2;
+                164:else 
+                   Label<=3;
+            159:else 
+              167:if ((pixels[512] <= 16) && ((pixels[512] <= 16) ^ key)==(pixels[512] <= 16)) 
+                 Label<=5;
+              167:else 
+                169:if ((pixels[386] <= 251) && ((pixels[386] <= 251) ^ key)==(pixels[386] <= 251)) 
+                   Label<=6;
+                169:else 
+                   Label<=0;
+          158:else 
+            172:if ((pixels[358] <= 81) && ((pixels[358] <= 81) ^ key)==(pixels[358] <= 81)) 
+              173:if ((pixels[513] <= 71) && ((pixels[513] <= 71) ^ key)==(pixels[513] <= 71)) 
+                174:if ((pixels[408] <= 4) && ((pixels[408] <= 4) ^ key)==(pixels[408] <= 4)) 
+                   Label<=5;
+                174:else 
+                   Label<=8;
+              173:else 
+                177:if ((pixels[405] <= 201) && ((pixels[405] <= 201) ^ key)==(pixels[405] <= 201)) 
+                   Label<=6;
+                177:else 
+                   Label<=8;
+            172:else 
+              180:if ((pixels[400] <= 75) && ((pixels[400] <= 75) ^ key)==(pixels[400] <= 75)) 
+                181:if ((pixels[317] <= 48) && ((pixels[317] <= 48) ^ key)==(pixels[317] <= 48)) 
+                   Label<=2;
+                181:else 
+                   Label<=8;
+              180:else 
+                184:if ((pixels[292] <= 27) && ((pixels[292] <= 27) ^ key)==(pixels[292] <= 27)) 
+                   Label<=2;
+                184:else 
+                   Label<=0;
+      125:else 
+        187:if ((pixels[347] <= 0) && ((pixels[347] <= 0) ^ key)==(pixels[347] <= 0)) 
+          188:if ((pixels[344] <= 27) && ((pixels[344] <= 27) ^ key)==(pixels[344] <= 27)) 
+            189:if ((pixels[155] <= 0) && ((pixels[155] <= 0) ^ key)==(pixels[155] <= 0)) 
+              190:if ((pixels[652] <= 6) && ((pixels[652] <= 6) ^ key)==(pixels[652] <= 6)) 
+                191:if ((pixels[457] <= 63) && ((pixels[457] <= 63) ^ key)==(pixels[457] <= 63)) 
+                   Label<=2;
+                191:else 
+                   Label<=2;
+              190:else 
+                194:if ((pixels[238] <= 2) && ((pixels[238] <= 2) ^ key)==(pixels[238] <= 2)) 
+                   Label<=1;
+                194:else 
+                   Label<=7;
+            189:else 
+              197:if ((pixels[544] <= 2) && ((pixels[544] <= 2) ^ key)==(pixels[544] <= 2)) 
+                198:if ((pixels[513] <= 3) && ((pixels[513] <= 3) ^ key)==(pixels[513] <= 3)) 
+                   Label<=3;
+                198:else 
+                   Label<=2;
+              197:else 
+                201:if ((pixels[349] <= 231) && ((pixels[349] <= 231) ^ key)==(pixels[349] <= 231)) 
+                   Label<=2;
+                201:else 
+                   Label<=8;
+          188:else 
+            204:if ((pixels[214] <= 5) && ((pixels[214] <= 5) ^ key)==(pixels[214] <= 5)) 
+              205:if ((pixels[267] <= 7) && ((pixels[267] <= 7) ^ key)==(pixels[267] <= 7)) 
+                206:if ((pixels[217] <= 29) && ((pixels[217] <= 29) ^ key)==(pixels[217] <= 29)) 
+                   Label<=6;
+                206:else 
+                   Label<=4;
+              205:else 
+                209:if ((pixels[487] <= 2) && ((pixels[487] <= 2) ^ key)==(pixels[487] <= 2)) 
+                   Label<=5;
+                209:else 
+                   Label<=8;
+            204:else 
+              212:if ((pixels[402] <= 123) && ((pixels[402] <= 123) ^ key)==(pixels[402] <= 123)) 
+                213:if ((pixels[399] <= 32) && ((pixels[399] <= 32) ^ key)==(pixels[399] <= 32)) 
+                   Label<=2;
+                213:else 
+                   Label<=9;
+              212:else 
+                216:if ((pixels[514] <= 0) && ((pixels[514] <= 0) ^ key)==(pixels[514] <= 0)) 
+                   Label<=5;
+                216:else 
+                   Label<=8;
+        187:else 
+          219:if ((pixels[655] <= 0) && ((pixels[655] <= 0) ^ key)==(pixels[655] <= 0)) 
+            220:if ((pixels[271] <= 1) && ((pixels[271] <= 1) ^ key)==(pixels[271] <= 1)) 
+              221:if ((pixels[484] <= 0) && ((pixels[484] <= 0) ^ key)==(pixels[484] <= 0)) 
+                222:if ((pixels[515] <= 52) && ((pixels[515] <= 52) ^ key)==(pixels[515] <= 52)) 
+                   Label<=5;
+                222:else 
+                   Label<=6;
+              221:else 
+                225:if ((pixels[219] <= 2) && ((pixels[219] <= 2) ^ key)==(pixels[219] <= 2)) 
+                   Label<=6;
+                225:else 
+                   Label<=5;
+            220:else 
+              228:if ((pixels[354] <= 10) && ((pixels[354] <= 10) ^ key)==(pixels[354] <= 10)) 
+                229:if ((pixels[385] <= 4) && ((pixels[385] <= 4) ^ key)==(pixels[385] <= 4)) 
+                   Label<=5;
+                229:else 
+                   Label<=0;
+              228:else 
+                232:if ((pixels[156] <= 6) && ((pixels[156] <= 6) ^ key)==(pixels[156] <= 6)) 
+                   Label<=4;
+                232:else 
+                   Label<=2;
+          219:else 
+            235:if ((pixels[514] <= 16) && ((pixels[514] <= 16) ^ key)==(pixels[514] <= 16)) 
+              236:if ((pixels[355] <= 4) && ((pixels[355] <= 4) ^ key)==(pixels[355] <= 4)) 
+                237:if ((pixels[150] <= 134) && ((pixels[150] <= 134) ^ key)==(pixels[150] <= 134)) 
+                   Label<=5;
+                237:else 
+                   Label<=3;
+              236:else 
+                240:if ((pixels[434] <= 41) && ((pixels[434] <= 41) ^ key)==(pixels[434] <= 41)) 
+                   Label<=0;
+                240:else 
+                   Label<=8;
+            235:else 
+              243:if ((pixels[428] <= 30) && ((pixels[428] <= 30) ^ key)==(pixels[428] <= 30)) 
+                244:if ((pixels[460] <= 1) && ((pixels[460] <= 1) ^ key)==(pixels[460] <= 1)) 
+                   Label<=5;
+                244:else 
+                   Label<=8;
+              243:else 
+                247:if ((pixels[434] <= 27) && ((pixels[434] <= 27) ^ key)==(pixels[434] <= 27)) 
+                   Label<=0;
+                247:else 
+                   Label<=8;
+  0:else 
+    250:if ((pixels[489] <= 26) && ((pixels[489] <= 26) ^ key)==(pixels[489] <= 26)) 
+      251:if ((pixels[290] <= 33) && ((pixels[290] <= 33) ^ key)==(pixels[290] <= 33)) 
+        252:if ((pixels[486] <= 57) && ((pixels[486] <= 57) ^ key)==(pixels[486] <= 57)) 
+          253:if ((pixels[296] <= 2) && ((pixels[296] <= 2) ^ key)==(pixels[296] <= 2)) 
+            254:if ((pixels[490] <= 87) && ((pixels[490] <= 87) ^ key)==(pixels[490] <= 87)) 
+              255:if ((pixels[315] <= 18) && ((pixels[315] <= 18) ^ key)==(pixels[315] <= 18)) 
+                256:if ((pixels[177] <= 1) && ((pixels[177] <= 1) ^ key)==(pixels[177] <= 1)) 
+                   Label<=5;
+                256:else 
+                   Label<=3;
+              255:else 
+                259:if ((pixels[328] <= 86) && ((pixels[328] <= 86) ^ key)==(pixels[328] <= 86)) 
+                   Label<=5;
+                259:else 
+                   Label<=4;
+            254:else 
+              262:if ((pixels[600] <= 1) && ((pixels[600] <= 1) ^ key)==(pixels[600] <= 1)) 
+                263:if ((pixels[457] <= 3) && ((pixels[457] <= 3) ^ key)==(pixels[457] <= 3)) 
+                   Label<=1;
+                263:else 
+                   Label<=7;
+              262:else 
+                266:if ((pixels[354] <= 76) && ((pixels[354] <= 76) ^ key)==(pixels[354] <= 76)) 
+                   Label<=5;
+                266:else 
+                   Label<=8;
+          253:else 
+            269:if ((pixels[180] <= 3) && ((pixels[180] <= 3) ^ key)==(pixels[180] <= 3)) 
+              270:if ((pixels[156] <= 1) && ((pixels[156] <= 1) ^ key)==(pixels[156] <= 1)) 
+                271:if ((pixels[538] <= 1) && ((pixels[538] <= 1) ^ key)==(pixels[538] <= 1)) 
+                   Label<=9;
+                271:else 
+                   Label<=5;
+              270:else 
+                274:if ((pixels[265] <= 143) && ((pixels[265] <= 143) ^ key)==(pixels[265] <= 143)) 
+                   Label<=3;
+                274:else 
+                   Label<=5;
+            269:else 
+              277:if ((pixels[316] <= 112) && ((pixels[316] <= 112) ^ key)==(pixels[316] <= 112)) 
+                278:if ((pixels[488] <= 58) && ((pixels[488] <= 58) ^ key)==(pixels[488] <= 58)) 
+                   Label<=3;
+                278:else 
+                   Label<=8;
+              277:else 
+                281:if ((pixels[497] <= 13) && ((pixels[497] <= 13) ^ key)==(pixels[497] <= 13)) 
+                   Label<=9;
+                281:else 
+                   Label<=3;
+        252:else 
+          284:if ((pixels[656] <= 0) && ((pixels[656] <= 0) ^ key)==(pixels[656] <= 0)) 
+            285:if ((pixels[152] <= 8) && ((pixels[152] <= 8) ^ key)==(pixels[152] <= 8)) 
+              286:if ((pixels[601] <= 74) && ((pixels[601] <= 74) ^ key)==(pixels[601] <= 74)) 
+                287:if ((pixels[189] <= 16) && ((pixels[189] <= 16) ^ key)==(pixels[189] <= 16)) 
+                   Label<=5;
+                287:else 
+                   Label<=1;
+              286:else 
+                290:if ((pixels[271] <= 2) && ((pixels[271] <= 2) ^ key)==(pixels[271] <= 2)) 
+                   Label<=6;
+                290:else 
+                   Label<=0;
+            285:else 
+              293:if ((pixels[465] <= 11) && ((pixels[465] <= 11) ^ key)==(pixels[465] <= 11)) 
+                294:if ((pixels[371] <= 35) && ((pixels[371] <= 35) ^ key)==(pixels[371] <= 35)) 
+                   Label<=2;
+                294:else 
+                   Label<=6;
+              293:else 
+                297:if ((pixels[431] <= 41) && ((pixels[431] <= 41) ^ key)==(pixels[431] <= 41)) 
+                   Label<=3;
+                297:else 
+                   Label<=8;
+          284:else 
+            300:if ((pixels[467] <= 68) && ((pixels[467] <= 68) ^ key)==(pixels[467] <= 68)) 
+              301:if ((pixels[435] <= 21) && ((pixels[435] <= 21) ^ key)==(pixels[435] <= 21)) 
+                302:if ((pixels[125] <= 13) && ((pixels[125] <= 13) ^ key)==(pixels[125] <= 13)) 
+                   Label<=8;
+                302:else 
+                   Label<=2;
+              301:else 
+                305:if ((pixels[293] <= 26) && ((pixels[293] <= 26) ^ key)==(pixels[293] <= 26)) 
+                   Label<=8;
+                305:else 
+                   Label<=8;
+            300:else 
+              308:if ((pixels[179] <= 3) && ((pixels[179] <= 3) ^ key)==(pixels[179] <= 3)) 
+                309:if ((pixels[356] <= 20) && ((pixels[356] <= 20) ^ key)==(pixels[356] <= 20)) 
+                   Label<=6;
+                309:else 
+                   Label<=0;
+              308:else 
+                312:if ((pixels[316] <= 65) && ((pixels[316] <= 65) ^ key)==(pixels[316] <= 65)) 
+                   Label<=3;
+                312:else 
+                   Label<=8;
+      251:else 
+        315:if ((pixels[297] <= 3) && ((pixels[297] <= 3) ^ key)==(pixels[297] <= 3)) 
+          316:if ((pixels[486] <= 58) && ((pixels[486] <= 58) ^ key)==(pixels[486] <= 58)) 
+            317:if ((pixels[186] <= 2) && ((pixels[186] <= 2) ^ key)==(pixels[186] <= 2)) 
+              318:if ((pixels[293] <= 214) && ((pixels[293] <= 214) ^ key)==(pixels[293] <= 214)) 
+                319:if ((pixels[464] <= 79) && ((pixels[464] <= 79) ^ key)==(pixels[464] <= 79)) 
+                   Label<=5;
+                319:else 
+                   Label<=4;
+              318:else 
+                322:if ((pixels[491] <= 189) && ((pixels[491] <= 189) ^ key)==(pixels[491] <= 189)) 
+                   Label<=3;
+                322:else 
+                   Label<=1;
+            317:else 
+              325:if ((pixels[301] <= 54) && ((pixels[301] <= 54) ^ key)==(pixels[301] <= 54)) 
+                326:if ((pixels[299] <= 81) && ((pixels[299] <= 81) ^ key)==(pixels[299] <= 81)) 
+                   Label<=5;
+                326:else 
+                   Label<=8;
+              325:else 
+                329:if ((pixels[381] <= 22) && ((pixels[381] <= 22) ^ key)==(pixels[381] <= 22)) 
+                   Label<=0;
+                329:else 
+                   Label<=8;
+          316:else 
+            332:if ((pixels[656] <= 7) && ((pixels[656] <= 7) ^ key)==(pixels[656] <= 7)) 
+              333:if ((pixels[373] <= 13) && ((pixels[373] <= 13) ^ key)==(pixels[373] <= 13)) 
+                334:if ((pixels[374] <= 207) && ((pixels[374] <= 207) ^ key)==(pixels[374] <= 207)) 
+                   Label<=8;
+                334:else 
+                   Label<=6;
+              333:else 
+                337:if ((pixels[514] <= 39) && ((pixels[514] <= 39) ^ key)==(pixels[514] <= 39)) 
+                   Label<=5;
+                337:else 
+                   Label<=6;
+            332:else 
+              340:if ((pixels[440] <= 34) && ((pixels[440] <= 34) ^ key)==(pixels[440] <= 34)) 
+                341:if ((pixels[153] <= 5) && ((pixels[153] <= 5) ^ key)==(pixels[153] <= 5)) 
+                   Label<=5;
+                341:else 
+                   Label<=8;
+              340:else 
+                344:if ((pixels[300] <= 16) && ((pixels[300] <= 16) ^ key)==(pixels[300] <= 16)) 
+                   Label<=5;
+                344:else 
+                   Label<=0;
+        315:else 
+          347:if ((pixels[598] <= 0) && ((pixels[598] <= 0) ^ key)==(pixels[598] <= 0)) 
+            348:if ((pixels[210] <= 4) && ((pixels[210] <= 4) ^ key)==(pixels[210] <= 4)) 
+              349:if ((pixels[405] <= 7) && ((pixels[405] <= 7) ^ key)==(pixels[405] <= 7)) 
+                350:if ((pixels[320] <= 212) && ((pixels[320] <= 212) ^ key)==(pixels[320] <= 212)) 
+                   Label<=5;
+                350:else 
+                   Label<=7;
+              349:else 
+                353:if ((pixels[408] <= 174) && ((pixels[408] <= 174) ^ key)==(pixels[408] <= 174)) 
+                   Label<=6;
+                353:else 
+                   Label<=4;
+            348:else 
+              356:if ((pixels[653] <= 67) && ((pixels[653] <= 67) ^ key)==(pixels[653] <= 67)) 
+                357:if ((pixels[154] <= 43) && ((pixels[154] <= 43) ^ key)==(pixels[154] <= 43)) 
+                   Label<=9;
+                357:else 
+                   Label<=9;
+              356:else 
+                360:if ((pixels[319] <= 64) && ((pixels[319] <= 64) ^ key)==(pixels[319] <= 64)) 
+                   Label<=3;
+                360:else 
+                   Label<=5;
+          347:else 
+            363:if ((pixels[486] <= 9) && ((pixels[486] <= 9) ^ key)==(pixels[486] <= 9)) 
+              364:if ((pixels[427] <= 168) && ((pixels[427] <= 168) ^ key)==(pixels[427] <= 168)) 
+                365:if ((pixels[269] <= 1) && ((pixels[269] <= 1) ^ key)==(pixels[269] <= 1)) 
+                   Label<=5;
+                365:else 
+                   Label<=3;
+              364:else 
+                368:if ((pixels[381] <= 147) && ((pixels[381] <= 147) ^ key)==(pixels[381] <= 147)) 
+                   Label<=0;
+                368:else 
+                   Label<=5;
+            363:else 
+              371:if ((pixels[400] <= 23) && ((pixels[400] <= 23) ^ key)==(pixels[400] <= 23)) 
+                372:if ((pixels[573] <= 238) && ((pixels[573] <= 238) ^ key)==(pixels[573] <= 238)) 
+                   Label<=8;
+                372:else 
+                   Label<=8;
+              371:else 
+                375:if ((pixels[242] <= 10) && ((pixels[242] <= 10) ^ key)==(pixels[242] <= 10)) 
+                   Label<=6;
+                375:else 
+                   Label<=0;
+    250:else 
+      378:if ((pixels[234] <= 0) && ((pixels[234] <= 0) ^ key)==(pixels[234] <= 0)) 
+        379:if ((pixels[402] <= 0) && ((pixels[402] <= 0) ^ key)==(pixels[402] <= 0)) 
+          380:if ((pixels[300] <= 20) && ((pixels[300] <= 20) ^ key)==(pixels[300] <= 20)) 
+            381:if ((pixels[149] <= 2) && ((pixels[149] <= 2) ^ key)==(pixels[149] <= 2)) 
+              382:if ((pixels[494] <= 4) && ((pixels[494] <= 4) ^ key)==(pixels[494] <= 4)) 
+                383:if ((pixels[539] <= 64) && ((pixels[539] <= 64) ^ key)==(pixels[539] <= 64)) 
+                   Label<=1;
+                383:else 
+                   Label<=5;
+              382:else 
+                386:if ((pixels[657] <= 87) && ((pixels[657] <= 87) ^ key)==(pixels[657] <= 87)) 
+                   Label<=6;
+                386:else 
+                   Label<=8;
+            381:else 
+              389:if ((pixels[543] <= 74) && ((pixels[543] <= 74) ^ key)==(pixels[543] <= 74)) 
+                390:if ((pixels[296] <= 101) && ((pixels[296] <= 101) ^ key)==(pixels[296] <= 101)) 
+                   Label<=1;
+                390:else 
+                   Label<=3;
+              389:else 
+                393:if ((pixels[319] <= 68) && ((pixels[319] <= 68) ^ key)==(pixels[319] <= 68)) 
+                   Label<=2;
+                393:else 
+                   Label<=8;
+          380:else 
+            396:if ((pixels[183] <= 1) && ((pixels[183] <= 1) ^ key)==(pixels[183] <= 1)) 
+              397:if ((pixels[188] <= 180) && ((pixels[188] <= 180) ^ key)==(pixels[188] <= 180)) 
+                398:if ((pixels[551] <= 10) && ((pixels[551] <= 10) ^ key)==(pixels[551] <= 10)) 
+                   Label<=5;
+                398:else 
+                   Label<=6;
+              397:else 
+                401:if ((pixels[265] <= 11) && ((pixels[265] <= 11) ^ key)==(pixels[265] <= 11)) 
+                   Label<=1;
+                401:else 
+                   Label<=8;
+            396:else 
+              404:if ((pixels[487] <= 49) && ((pixels[487] <= 49) ^ key)==(pixels[487] <= 49)) 
+                405:if ((pixels[155] <= 7) && ((pixels[155] <= 7) ^ key)==(pixels[155] <= 7)) 
+                   Label<=9;
+                405:else 
+                   Label<=3;
+              404:else 
+                408:if ((pixels[434] <= 146) && ((pixels[434] <= 146) ^ key)==(pixels[434] <= 146)) 
+                   Label<=3;
+                408:else 
+                   Label<=8;
+        379:else 
+          411:if ((pixels[103] <= 1) && ((pixels[103] <= 1) ^ key)==(pixels[103] <= 1)) 
+            412:if ((pixels[276] <= 0) && ((pixels[276] <= 0) ^ key)==(pixels[276] <= 0)) 
+              413:if ((pixels[555] <= 3) && ((pixels[555] <= 3) ^ key)==(pixels[555] <= 3)) 
+                414:if ((pixels[466] <= 0) && ((pixels[466] <= 0) ^ key)==(pixels[466] <= 0)) 
+                   Label<=1;
+                414:else 
+                   Label<=6;
+              413:else 
+                417:if ((pixels[315] <= 29) && ((pixels[315] <= 29) ^ key)==(pixels[315] <= 29)) 
+                   Label<=2;
+                417:else 
+                   Label<=6;
+            412:else 
+              420:if ((pixels[381] <= 58) && ((pixels[381] <= 58) ^ key)==(pixels[381] <= 58)) 
+                421:if ((pixels[188] <= 52) && ((pixels[188] <= 52) ^ key)==(pixels[188] <= 52)) 
+                   Label<=5;
+                421:else 
+                   Label<=8;
+              420:else 
+                424:if ((pixels[211] <= 72) && ((pixels[211] <= 72) ^ key)==(pixels[211] <= 72)) 
+                   Label<=5;
+                424:else 
+                   Label<=8;
+          411:else 
+            427:if ((pixels[272] <= 6) && ((pixels[272] <= 6) ^ key)==(pixels[272] <= 6)) 
+              428:if ((pixels[349] <= 19) && ((pixels[349] <= 19) ^ key)==(pixels[349] <= 19)) 
+                429:if ((pixels[352] <= 148) && ((pixels[352] <= 148) ^ key)==(pixels[352] <= 148)) 
+                   Label<=4;
+                429:else 
+                   Label<=5;
+              428:else 
+                432:if ((pixels[152] <= 4) && ((pixels[152] <= 4) ^ key)==(pixels[152] <= 4)) 
+                   Label<=6;
+                432:else 
+                   Label<=2;
+            427:else 
+              435:if ((pixels[319] <= 126) && ((pixels[319] <= 126) ^ key)==(pixels[319] <= 126)) 
+                436:if ((pixels[637] <= 162) && ((pixels[637] <= 162) ^ key)==(pixels[637] <= 162)) 
+                   Label<=2;
+                436:else 
+                   Label<=4;
+              435:else 
+                439:if ((pixels[468] <= 108) && ((pixels[468] <= 108) ^ key)==(pixels[468] <= 108)) 
+                   Label<=6;
+                439:else 
+                   Label<=0;
+      378:else 
+        442:if ((pixels[658] <= 16) && ((pixels[658] <= 16) ^ key)==(pixels[658] <= 16)) 
+          443:if ((pixels[345] <= 17) && ((pixels[345] <= 17) ^ key)==(pixels[345] <= 17)) 
+            444:if ((pixels[526] <= 1) && ((pixels[526] <= 1) ^ key)==(pixels[526] <= 1)) 
+              445:if ((pixels[541] <= 42) && ((pixels[541] <= 42) ^ key)==(pixels[541] <= 42)) 
+                446:if ((pixels[603] <= 205) && ((pixels[603] <= 205) ^ key)==(pixels[603] <= 205)) 
+                   Label<=7;
+                446:else 
+                   Label<=1;
+              445:else 
+                449:if ((pixels[320] <= 164) && ((pixels[320] <= 164) ^ key)==(pixels[320] <= 164)) 
+                   Label<=2;
+                449:else 
+                   Label<=8;
+            444:else 
+              452:if ((pixels[370] <= 11) && ((pixels[370] <= 11) ^ key)==(pixels[370] <= 11)) 
+                453:if ((pixels[284] <= 24) && ((pixels[284] <= 24) ^ key)==(pixels[284] <= 24)) 
+                   Label<=2;
+                453:else 
+                   Label<=3;
+              452:else 
+                456:if ((pixels[177] <= 136) && ((pixels[177] <= 136) ^ key)==(pixels[177] <= 136)) 
+                   Label<=2;
+                456:else 
+                   Label<=6;
+          443:else 
+            459:if ((pixels[575] <= 231) && ((pixels[575] <= 231) ^ key)==(pixels[575] <= 231)) 
+              460:if ((pixels[210] <= 21) && ((pixels[210] <= 21) ^ key)==(pixels[210] <= 21)) 
+                461:if ((pixels[406] <= 13) && ((pixels[406] <= 13) ^ key)==(pixels[406] <= 13)) 
+                   Label<=7;
+                461:else 
+                   Label<=4;
+              460:else 
+                464:if ((pixels[555] <= 9) && ((pixels[555] <= 9) ^ key)==(pixels[555] <= 9)) 
+                   Label<=9;
+                464:else 
+                   Label<=2;
+            459:else 
+              467:if ((pixels[239] <= 110) && ((pixels[239] <= 110) ^ key)==(pixels[239] <= 110)) 
+                468:if ((pixels[624] <= 26) && ((pixels[624] <= 26) ^ key)==(pixels[624] <= 26)) 
+                   Label<=6;
+                468:else 
+                   Label<=8;
+              467:else 
+                471:if ((pixels[398] <= 99) && ((pixels[398] <= 99) ^ key)==(pixels[398] <= 99)) 
+                   Label<=6;
+                471:else 
+                   Label<=0;
+        442:else 
+          474:if ((pixels[515] <= 2) && ((pixels[515] <= 2) ^ key)==(pixels[515] <= 2)) 
+            475:if ((pixels[545] <= 15) && ((pixels[545] <= 15) ^ key)==(pixels[545] <= 15)) 
+              476:if ((pixels[512] <= 45) && ((pixels[512] <= 45) ^ key)==(pixels[512] <= 45)) 
+                477:if ((pixels[546] <= 166) && ((pixels[546] <= 166) ^ key)==(pixels[546] <= 166)) 
+                   Label<=3;
+                477:else 
+                   Label<=1;
+              476:else 
+                480:if ((pixels[183] <= 11) && ((pixels[183] <= 11) ^ key)==(pixels[183] <= 11)) 
+                   Label<=7;
+                480:else 
+                   Label<=8;
+            475:else 
+              483:if ((pixels[713] <= 29) && ((pixels[713] <= 29) ^ key)==(pixels[713] <= 29)) 
+                484:if ((pixels[491] <= 233) && ((pixels[491] <= 233) ^ key)==(pixels[491] <= 233)) 
+                   Label<=8;
+                484:else 
+                   Label<=1;
+              483:else 
+                487:if ((pixels[374] <= 0) && ((pixels[374] <= 0) ^ key)==(pixels[374] <= 0)) 
+                   Label<=7;
+                487:else 
+                   Label<=9;
+          474:else 
+            490:if ((pixels[319] <= 0) && ((pixels[319] <= 0) ^ key)==(pixels[319] <= 0)) 
+              491:if ((pixels[344] <= 4) && ((pixels[344] <= 4) ^ key)==(pixels[344] <= 4)) 
+                492:if ((pixels[608] <= 7) && ((pixels[608] <= 7) ^ key)==(pixels[608] <= 7)) 
+                   Label<=7;
+                492:else 
+                   Label<=2;
+              491:else 
+                495:if ((pixels[122] <= 5) && ((pixels[122] <= 5) ^ key)==(pixels[122] <= 5)) 
+                   Label<=8;
+                495:else 
+                   Label<=6;
+            490:else 
+              498:if ((pixels[440] <= 68) && ((pixels[440] <= 68) ^ key)==(pixels[440] <= 68)) 
+                499:if ((pixels[267] <= 204) && ((pixels[267] <= 204) ^ key)==(pixels[267] <= 204)) 
+                   Label<=8;
+                499:else 
+                   Label<=8;
+              498:else 
+                502:if ((pixels[546] <= 148) && ((pixels[546] <= 148) ^ key)==(pixels[546] <= 148)) 
+                   Label<=8;
+                502:else 
+                   Label<=3;

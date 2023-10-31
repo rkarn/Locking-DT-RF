@@ -1,0 +1,119 @@
+Copyright (C) 2022  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+Fitter Resource Usage Summary
+
+Resource,Usage,%
+Logic utilization (ALMs needed / total ALMs on device),"905 / 41,910",2 %
+ALMs needed [=A-B+C],905,
+    [A] ALMs used in final placement [=a+b+c+d],"1,147 / 41,910",3 %
+        [a] ALMs used for LUT logic and registers,390,
+        [b] ALMs used for LUT logic,367,
+        [c] ALMs used for registers,390,
+        [d] ALMs used for memory (up to half of total ALMs),0,
+    [B] Estimate of ALMs recoverable by dense packing,"244 / 41,910",< 1 %
+    [C] Estimate of ALMs unavailable [=a+b+c+d],"2 / 41,910",< 1 %
+        [a] Due to location constrained logic,0,
+        [b] Due to LAB-wide signal conflicts,0,
+        [c] Due to LAB input limits,2,
+        [d] Due to virtual I/Os,0,
+ , ,
+Difficulty packing design,Low,
+ , ,
+Total LABs:  partially or completely used,"151 / 4,191",4 %
+    -- Logic LABs,151,
+    -- Memory LABs (up to half of total LABs),0,
+ , ,
+Combinational ALUT usage for logic,"1,217",
+    -- 7 input functions,2,
+    -- 6 input functions,518,
+    -- 5 input functions,287,
+    -- 4 input functions,171,
+    -- <=3 input functions,239,
+Combinational ALUT usage for route-throughs,237,
+ , ,
+Dedicated logic registers,"1,592",
+    -- By type:, ,
+        -- Primary logic registers,"1,559 / 83,820",2 %
+        -- Secondary logic registers,"33 / 83,820",< 1 %
+    -- By function:, ,
+        -- Design implementation registers,"1,582",
+        -- Routing optimization registers,10,
+ , ,
+Virtual pins,0,
+I/O pins,106 / 499,21 %
+    -- Clock pins ,6 / 11,55 %
+    -- Dedicated input pins ,0 / 39,0 %
+ , ,
+Hard processor system peripheral utilization,,
+    -- Boot from FPGA,0 / 1 ( 0 % ),
+    -- Clock resets,0 / 1 ( 0 % ),
+    -- Cross trigger,0 / 1 ( 0 % ),
+    -- S2F AXI,0 / 1 ( 0 % ),
+    -- F2S AXI,0 / 1 ( 0 % ),
+    -- AXI Lightweight,0 / 1 ( 0 % ),
+    -- SDRAM,0 / 1 ( 0 % ),
+    -- Interrupts,0 / 1 ( 0 % ),
+    -- JTAG,0 / 1 ( 0 % ),
+    -- Loan I/O,0 / 1 ( 0 % ),
+    -- MPU event standby,0 / 1 ( 0 % ),
+    -- MPU general purpose,0 / 1 ( 0 % ),
+    -- STM event,0 / 1 ( 0 % ),
+    -- TPIU trace,0 / 1 ( 0 % ),
+    -- DMA,0 / 1 ( 0 % ),
+    -- CAN,0 / 2 ( 0 % ),
+    -- EMAC,0 / 2 ( 0 % ),
+    -- I2C,0 / 4 ( 0 % ),
+    -- NAND Flash,0 / 1 ( 0 % ),
+    -- QSPI,0 / 1 ( 0 % ),
+    -- SDMMC,0 / 1 ( 0 % ),
+    -- SPI Master,0 / 2 ( 0 % ),
+    -- SPI Slave,0 / 2 ( 0 % ),
+    -- UART,0 / 2 ( 0 % ),
+    -- USB,0 / 2 ( 0 % ),
+,,
+M10K blocks,1 / 553,< 1 %
+Total MLAB memory bits,0,
+Total block memory bits,"8,192 / 5,662,720",< 1 %
+Total block memory implementation bits,"10,240 / 5,662,720",< 1 %
+ , ,
+Total DSP Blocks,0 / 112,0 %
+ , ,
+Fractional PLLs,0 / 6,0 %
+Global signals ,1,
+    -- Global clocks,1 / 16,6 %
+    -- Quadrant clocks,0 / 66,0 %
+    -- Horizontal periphery clocks,0 / 18,0 %
+SERDES Transmitters,0 / 100,0 %
+SERDES Receivers,0 / 100,0 %
+JTAGs,0 / 1,0 %
+ASMI blocks,0 / 1,0 %
+CRC blocks,0 / 1,0 %
+Remote update blocks,0 / 1,0 %
+Oscillator blocks,0 / 1,0 %
+Hard IPs,0 / 2,0 %
+Standard RX PCSs,0 / 9,0 %
+HSSI PMA RX Deserializers,0 / 9,0 %
+Standard TX PCSs,0 / 9,0 %
+HSSI PMA TX Serializers,0 / 9,0 %
+Channel PLLs,0 / 9,0 %
+Impedance control blocks,0 / 4,0 %
+Hard Memory Controllers,0 / 2,0 %
+Average interconnect usage (total/H/V),0.7% / 0.8% / 0.5%,
+Peak interconnect usage (total/H/V),16.5% / 18.3% / 11.0%,
+Maximum fan-out,1591,
+Highest non-global fan-out,267,
+Total fan-out,10731,
+Average fan-out,3.26,

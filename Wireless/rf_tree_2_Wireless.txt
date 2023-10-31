@@ -1,0 +1,734 @@
+ // Source code for tree 2.
+   0:if (pixels_tree2[4] <= 1)
+    1:if (pixels_tree2[4] <= 0)
+      2:if (pixels_tree2[1] <= 721)
+        3:if (pixels_tree2[2] <= 383)
+           Label_tree_2<= 2;
+        3:else 
+          5:if (pixels_tree2[1] <= 625)
+            6:if (pixels_tree2[2] <= 634)
+              7:if (pixels_tree2[3] <= 208)
+                8:if (pixels_tree2[5] <= 592)
+                  9:if (pixels_tree2[6] <= 796)
+                    10:if (pixels_tree2[2] <= 593)
+                       Label_tree_2<= 3;
+                    10:else 
+                       Label_tree_2<= 0;
+                  9:else 
+                     Label_tree_2<= 0;
+                8:else 
+                   Label_tree_2<= 3;
+              7:else 
+                15:if (pixels_tree2[2] <= 583)
+                  16:if (pixels_tree2[5] <= 105)
+                    17:if (pixels_tree2[2] <= 561)
+                       Label_tree_2<= 0;
+                    17:else 
+                       Label_tree_2<= 1;
+                  16:else 
+                    20:if (pixels_tree2[1] <= 460)
+                       Label_tree_2<= 0;
+                    20:else 
+                       Label_tree_2<= 0;
+                15:else 
+                  23:if (pixels_tree2[2] <= 611)
+                    24:if (pixels_tree2[7] <= 10)
+                       Label_tree_2<= 0;
+                    24:else 
+                       Label_tree_2<= 0;
+                  23:else 
+                    27:if (pixels_tree2[5] <= 478)
+                       Label_tree_2<= 0;
+                    27:else 
+                       Label_tree_2<= 3;
+            6:else 
+              30:if (pixels_tree2[6] <= 911)
+                31:if (pixels_tree2[3] <= 446)
+                  32:if (pixels_tree2[7] <= 8)
+                    33:if (pixels_tree2[2] <= 758)
+                       Label_tree_2<= 3;
+                    33:else 
+                       Label_tree_2<= 0;
+                  32:else 
+                    36:if (pixels_tree2[5] <= 584)
+                       Label_tree_2<= 0;
+                    36:else 
+                       Label_tree_2<= 3;
+                31:else 
+                  39:if (pixels_tree2[3] <= 459)
+                     Label_tree_2<= 0;
+                  39:else 
+                     Label_tree_2<= 1;
+              30:else 
+                42:if (pixels_tree2[3] <= 346)
+                  43:if (pixels_tree2[5] <= 633)
+                     Label_tree_2<= 0;
+                  43:else 
+                     Label_tree_2<= 3;
+                42:else 
+                   Label_tree_2<= 3;
+          5:else 
+            47:if (pixels_tree2[6] <= 945)
+              48:if (pixels_tree2[5] <= 137)
+                49:if (pixels_tree2[7] <= 8)
+                  50:if (pixels_tree2[5] <= 56)
+                     Label_tree_2<= 3;
+                  50:else 
+                    52:if (pixels_tree2[7] <= 7)
+                       Label_tree_2<= 1;
+                    52:else 
+                       Label_tree_2<= 1;
+                49:else 
+                   Label_tree_2<= 0;
+              48:else 
+                56:if (pixels_tree2[6] <= 882)
+                  57:if (pixels_tree2[7] <= 8)
+                     Label_tree_2<= 0;
+                  57:else 
+                    59:if (pixels_tree2[1] <= 663)
+                       Label_tree_2<= 0;
+                    59:else 
+                       Label_tree_2<= 0;
+                56:else 
+                  62:if (pixels_tree2[5] <= 154)
+                    63:if (pixels_tree2[6] <= 899)
+                       Label_tree_2<= 1;
+                    63:else 
+                       Label_tree_2<= 0;
+                  62:else 
+                    66:if (pixels_tree2[7] <= 9)
+                       Label_tree_2<= 0;
+                    66:else 
+                       Label_tree_2<= 3;
+            47:else 
+              69:if (pixels_tree2[5] <= 113)
+                70:if (pixels_tree2[2] <= 533)
+                   Label_tree_2<= 0;
+                70:else 
+                   Label_tree_2<= 1;
+              69:else 
+                 Label_tree_2<= 0;
+      2:else 
+        74:if (pixels_tree2[2] <= 361)
+          75:if (pixels_tree2[7] <= 1)
+            76:if (pixels_tree2[3] <= 566)
+               Label_tree_2<= 2;
+            76:else 
+              78:if (pixels_tree2[6] <= 850)
+                 Label_tree_2<= 2;
+              78:else 
+                80:if (pixels_tree2[2] <= 270)
+                   Label_tree_2<= 2;
+                80:else 
+                   Label_tree_2<= 0;
+          75:else 
+            83:if (pixels_tree2[2] <= 183)
+              84:if (pixels_tree2[3] <= 394)
+                 Label_tree_2<= 2;
+              84:else 
+                86:if (pixels_tree2[5] <= 332)
+                   Label_tree_2<= 2;
+                86:else 
+                  88:if (pixels_tree2[1] <= 852)
+                     Label_tree_2<= 0;
+                  88:else 
+                     Label_tree_2<= 2;
+            83:else 
+               Label_tree_2<= 2;
+        74:else 
+          92:if (pixels_tree2[2] <= 488)
+            93:if (pixels_tree2[2] <= 370)
+              94:if (pixels_tree2[0] <= 0)
+                 Label_tree_2<= 2;
+              94:else 
+                96:if (pixels_tree2[2] <= 365)
+                   Label_tree_2<= 3;
+                96:else 
+                  98:if (pixels_tree2[1] <= 756)
+                     Label_tree_2<= 3;
+                  98:else 
+                     Label_tree_2<= 0;
+            93:else 
+              101:if (pixels_tree2[1] <= 726)
+                 Label_tree_2<= 3;
+              101:else 
+                103:if (pixels_tree2[3] <= 332)
+                  104:if (pixels_tree2[3] <= 315)
+                     Label_tree_2<= 0;
+                  104:else 
+                    106:if (pixels_tree2[5] <= 373)
+                       Label_tree_2<= 3;
+                    106:else 
+                       Label_tree_2<= 0;
+                103:else 
+                  109:if (pixels_tree2[7] <= 9)
+                     Label_tree_2<= 0;
+                  109:else 
+                    111:if (pixels_tree2[2] <= 431)
+                       Label_tree_2<= 0;
+                    111:else 
+                       Label_tree_2<= 1;
+          92:else 
+            114:if (pixels_tree2[0] <= 0)
+               Label_tree_2<= 0;
+            114:else 
+               Label_tree_2<= 1;
+    1:else 
+      117:if (pixels_tree2[1] <= 513)
+        118:if (pixels_tree2[2] <= 620)
+          119:if (pixels_tree2[5] <= 600)
+            120:if (pixels_tree2[2] <= 552)
+              121:if (pixels_tree2[7] <= 0)
+                 Label_tree_2<= 3;
+              121:else 
+                123:if (pixels_tree2[5] <= 275)
+                   Label_tree_2<= 3;
+                123:else 
+                  125:if (pixels_tree2[3] <= 291)
+                    126:if (pixels_tree2[2] <= 511)
+                       Label_tree_2<= 3;
+                    126:else 
+                       Label_tree_2<= 1;
+                  125:else 
+                    129:if (pixels_tree2[7] <= 5)
+                       Label_tree_2<= 1;
+                    129:else 
+                       Label_tree_2<= 1;
+            120:else 
+              132:if (pixels_tree2[2] <= 611)
+                133:if (pixels_tree2[3] <= 284)
+                  134:if (pixels_tree2[5] <= 243)
+                     Label_tree_2<= 0;
+                  134:else 
+                    136:if (pixels_tree2[0] <= 0)
+                       Label_tree_2<= 1;
+                    136:else 
+                       Label_tree_2<= 3;
+                133:else 
+                  139:if (pixels_tree2[1] <= 242)
+                    140:if (pixels_tree2[6] <= 804)
+                       Label_tree_2<= 1;
+                    140:else 
+                       Label_tree_2<= 3;
+                  139:else 
+                    143:if (pixels_tree2[7] <= 2)
+                       Label_tree_2<= 1;
+                    143:else 
+                       Label_tree_2<= 1;
+              132:else 
+                146:if (pixels_tree2[1] <= 497)
+                  147:if (pixels_tree2[3] <= 250)
+                    148:if (pixels_tree2[5] <= 446)
+                       Label_tree_2<= 1;
+                    148:else 
+                       Label_tree_2<= 1;
+                  147:else 
+                    151:if (pixels_tree2[3] <= 288)
+                       Label_tree_2<= 3;
+                    151:else 
+                       Label_tree_2<= 1;
+                146:else 
+                   Label_tree_2<= 3;
+          119:else 
+            155:if (pixels_tree2[2] <= 538)
+              156:if (pixels_tree2[1] <= 250)
+                157:if (pixels_tree2[3] <= 387)
+                   Label_tree_2<= 3;
+                157:else 
+                   Label_tree_2<= 1;
+              156:else 
+                160:if (pixels_tree2[7] <= 6)
+                   Label_tree_2<= 3;
+                160:else 
+                  162:if (pixels_tree2[1] <= 423)
+                     Label_tree_2<= 3;
+                  162:else 
+                     Label_tree_2<= 1;
+            155:else 
+              165:if (pixels_tree2[3] <= 298)
+                 Label_tree_2<= 3;
+              165:else 
+                167:if (pixels_tree2[5] <= 641)
+                  168:if (pixels_tree2[2] <= 579)
+                     Label_tree_2<= 3;
+                  168:else 
+                    170:if (pixels_tree2[6] <= 979)
+                       Label_tree_2<= 1;
+                    170:else 
+                       Label_tree_2<= 3;
+                167:else 
+                  173:if (pixels_tree2[2] <= 588)
+                    174:if (pixels_tree2[6] <= 637)
+                       Label_tree_2<= 3;
+                    174:else 
+                       Label_tree_2<= 3;
+                  173:else 
+                     Label_tree_2<= 3;
+        118:else 
+          178:if (pixels_tree2[1] <= 186)
+            179:if (pixels_tree2[3] <= 247)
+               Label_tree_2<= 3;
+            179:else 
+               Label_tree_2<= 1;
+          178:else 
+            182:if (pixels_tree2[3] <= 291)
+              183:if (pixels_tree2[5] <= 511)
+                184:if (pixels_tree2[6] <= 687)
+                  185:if (pixels_tree2[2] <= 624)
+                     Label_tree_2<= 1;
+                  185:else 
+                    187:if (pixels_tree2[1] <= 369)
+                       Label_tree_2<= 3;
+                    187:else 
+                       Label_tree_2<= 3;
+                184:else 
+                  190:if (pixels_tree2[1] <= 380)
+                     Label_tree_2<= 1;
+                  190:else 
+                    192:if (pixels_tree2[2] <= 634)
+                       Label_tree_2<= 1;
+                    192:else 
+                       Label_tree_2<= 3;
+              183:else 
+                 Label_tree_2<= 3;
+            182:else 
+              196:if (pixels_tree2[3] <= 298)
+                197:if (pixels_tree2[6] <= 341)
+                   Label_tree_2<= 3;
+                197:else 
+                   Label_tree_2<= 0;
+              196:else 
+                200:if (pixels_tree2[5] <= 535)
+                  201:if (pixels_tree2[2] <= 638)
+                    202:if (pixels_tree2[3] <= 305)
+                       Label_tree_2<= 1;
+                    202:else 
+                       Label_tree_2<= 1;
+                  201:else 
+                    205:if (pixels_tree2[7] <= 7)
+                       Label_tree_2<= 3;
+                    205:else 
+                       Label_tree_2<= 1;
+                200:else 
+                  208:if (pixels_tree2[3] <= 401)
+                    209:if (pixels_tree2[6] <= 25)
+                       Label_tree_2<= 1;
+                    209:else 
+                       Label_tree_2<= 3;
+                  208:else 
+                    212:if (pixels_tree2[7] <= 5)
+                       Label_tree_2<= 3;
+                    212:else 
+                       Label_tree_2<= 1;
+      117:else 
+        215:if (pixels_tree2[6] <= 654)
+          216:if (pixels_tree2[2] <= 611)
+            217:if (pixels_tree2[5] <= 608)
+              218:if (pixels_tree2[5] <= 267)
+                219:if (pixels_tree2[2] <= 563)
+                  220:if (pixels_tree2[7] <= 5)
+                     Label_tree_2<= 1;
+                  220:else 
+                     Label_tree_2<= 0;
+                219:else 
+                  223:if (pixels_tree2[6] <= 217)
+                     Label_tree_2<= 1;
+                  223:else 
+                     Label_tree_2<= 3;
+              218:else 
+                226:if (pixels_tree2[6] <= 645)
+                  227:if (pixels_tree2[7] <= 5)
+                    228:if (pixels_tree2[5] <= 413)
+                       Label_tree_2<= 1;
+                    228:else 
+                       Label_tree_2<= 1;
+                  227:else 
+                     Label_tree_2<= 1;
+                226:else 
+                   Label_tree_2<= 3;
+            217:else 
+              233:if (pixels_tree2[5] <= 771)
+                 Label_tree_2<= 3;
+              233:else 
+                235:if (pixels_tree2[3] <= 343)
+                   Label_tree_2<= 3;
+                235:else 
+                   Label_tree_2<= 1;
+          216:else 
+            238:if (pixels_tree2[6] <= 45)
+               Label_tree_2<= 1;
+            238:else 
+               Label_tree_2<= 3;
+        215:else 
+          241:if (pixels_tree2[5] <= 633)
+            242:if (pixels_tree2[2] <= 309)
+               Label_tree_2<= 2;
+            242:else 
+              244:if (pixels_tree2[3] <= 408)
+                245:if (pixels_tree2[2] <= 597)
+                  246:if (pixels_tree2[7] <= 1)
+                    247:if (pixels_tree2[2] <= 565)
+                       Label_tree_2<= 1;
+                    247:else 
+                       Label_tree_2<= 1;
+                  246:else 
+                    250:if (pixels_tree2[3] <= 318)
+                       Label_tree_2<= 1;
+                    250:else 
+                       Label_tree_2<= 1;
+                245:else 
+                  253:if (pixels_tree2[5] <= 446)
+                     Label_tree_2<= 1;
+                  253:else 
+                    255:if (pixels_tree2[3] <= 281)
+                       Label_tree_2<= 1;
+                    255:else 
+                       Label_tree_2<= 3;
+              244:else 
+                258:if (pixels_tree2[1] <= 524)
+                  259:if (pixels_tree2[3] <= 414)
+                     Label_tree_2<= 3;
+                  259:else 
+                     Label_tree_2<= 1;
+                258:else 
+                  262:if (pixels_tree2[7] <= 4)
+                    263:if (pixels_tree2[0] <= 0)
+                       Label_tree_2<= 1;
+                    263:else 
+                       Label_tree_2<= 1;
+                  262:else 
+                     Label_tree_2<= 1;
+          241:else 
+            267:if (pixels_tree2[3] <= 264)
+               Label_tree_2<= 1;
+            267:else 
+               Label_tree_2<= 3;
+  0:else 
+    270:if (pixels_tree2[1] <= 700)
+      271:if (pixels_tree2[2] <= 365)
+         Label_tree_2<= 2;
+      271:else 
+        273:if (pixels_tree2[1] <= 444)
+          274:if (pixels_tree2[2] <= 636)
+            275:if (pixels_tree2[3] <= 277)
+              276:if (pixels_tree2[7] <= 10)
+                277:if (pixels_tree2[5] <= 235)
+                  278:if (pixels_tree2[7] <= 8)
+                    279:if (pixels_tree2[3] <= 229)
+                       Label_tree_2<= 3;
+                    279:else 
+                       Label_tree_2<= 0;
+                  278:else 
+                     Label_tree_2<= 0;
+                277:else 
+                  283:if (pixels_tree2[1] <= 300)
+                     Label_tree_2<= 3;
+                  283:else 
+                    285:if (pixels_tree2[0] <= 0)
+                       Label_tree_2<= 0;
+                    285:else 
+                       Label_tree_2<= 3;
+              276:else 
+                 Label_tree_2<= 3;
+            275:else 
+              289:if (pixels_tree2[6] <= 909)
+                290:if (pixels_tree2[3] <= 665)
+                  291:if (pixels_tree2[7] <= 2)
+                     Label_tree_2<= 0;
+                  291:else 
+                    293:if (pixels_tree2[2] <= 624)
+                       Label_tree_2<= 0;
+                    293:else 
+                       Label_tree_2<= 0;
+                290:else 
+                  296:if (pixels_tree2[3] <= 696)
+                     Label_tree_2<= 3;
+                  296:else 
+                    298:if (pixels_tree2[0] <= 0)
+                       Label_tree_2<= 0;
+                    298:else 
+                       Label_tree_2<= 3;
+              289:else 
+                301:if (pixels_tree2[6] <= 921)
+                  302:if (pixels_tree2[1] <= 228)
+                     Label_tree_2<= 0;
+                  302:else 
+                    304:if (pixels_tree2[5] <= 413)
+                       Label_tree_2<= 3;
+                    304:else 
+                       Label_tree_2<= 3;
+                301:else 
+                  307:if (pixels_tree2[1] <= 391)
+                    308:if (pixels_tree2[2] <= 627)
+                       Label_tree_2<= 0;
+                    308:else 
+                       Label_tree_2<= 3;
+                  307:else 
+                    311:if (pixels_tree2[1] <= 417)
+                       Label_tree_2<= 0;
+                    311:else 
+                       Label_tree_2<= 0;
+          274:else 
+            314:if (pixels_tree2[6] <= 896)
+              315:if (pixels_tree2[0] <= 0)
+                316:if (pixels_tree2[2] <= 661)
+                  317:if (pixels_tree2[3] <= 171)
+                    318:if (pixels_tree2[6] <= 209)
+                       Label_tree_2<= 3;
+                    318:else 
+                       Label_tree_2<= 0;
+                  317:else 
+                    321:if (pixels_tree2[1] <= 394)
+                       Label_tree_2<= 0;
+                    321:else 
+                       Label_tree_2<= 3;
+                316:else 
+                  324:if (pixels_tree2[6] <= 189)
+                     Label_tree_2<= 0;
+                  324:else 
+                     Label_tree_2<= 3;
+              315:else 
+                 Label_tree_2<= 3;
+            314:else 
+              328:if (pixels_tree2[2] <= 672)
+                 Label_tree_2<= 0;
+              328:else 
+                 Label_tree_2<= 3;
+        273:else 
+          331:if (pixels_tree2[2] <= 649)
+            332:if (pixels_tree2[1] <= 519)
+              333:if (pixels_tree2[2] <= 583)
+                334:if (pixels_tree2[1] <= 492)
+                  335:if (pixels_tree2[2] <= 531)
+                    336:if (pixels_tree2[0] <= 0)
+                       Label_tree_2<= 0;
+                    336:else 
+                       Label_tree_2<= 3;
+                  335:else 
+                    339:if (pixels_tree2[5] <= 446)
+                       Label_tree_2<= 0;
+                    339:else 
+                       Label_tree_2<= 3;
+                334:else 
+                  342:if (pixels_tree2[1] <= 513)
+                    343:if (pixels_tree2[3] <= 730)
+                       Label_tree_2<= 0;
+                    343:else 
+                       Label_tree_2<= 3;
+                  342:else 
+                    346:if (pixels_tree2[3] <= 339)
+                       Label_tree_2<= 3;
+                    346:else 
+                       Label_tree_2<= 0;
+              333:else 
+                349:if (pixels_tree2[1] <= 508)
+                  350:if (pixels_tree2[5] <= 584)
+                    351:if (pixels_tree2[5] <= 40)
+                       Label_tree_2<= 0;
+                    351:else 
+                       Label_tree_2<= 0;
+                  350:else 
+                     Label_tree_2<= 3;
+                349:else 
+                  355:if (pixels_tree2[5] <= 551)
+                    356:if (pixels_tree2[4] <= 2)
+                       Label_tree_2<= 0;
+                    356:else 
+                       Label_tree_2<= 0;
+                  355:else 
+                     Label_tree_2<= 3;
+            332:else 
+              360:if (pixels_tree2[5] <= 381)
+                361:if (pixels_tree2[3] <= 645)
+                  362:if (pixels_tree2[7] <= 2)
+                    363:if (pixels_tree2[6] <= 199)
+                       Label_tree_2<= 0;
+                    363:else 
+                       Label_tree_2<= 0;
+                  362:else 
+                    366:if (pixels_tree2[3] <= 243)
+                       Label_tree_2<= 0;
+                    366:else 
+                       Label_tree_2<= 0;
+                361:else 
+                  369:if (pixels_tree2[5] <= 340)
+                    370:if (pixels_tree2[6] <= 984)
+                       Label_tree_2<= 0;
+                    370:else 
+                       Label_tree_2<= 2;
+                  369:else 
+                     Label_tree_2<= 0;
+              360:else 
+                374:if (pixels_tree2[2] <= 511)
+                  375:if (pixels_tree2[6] <= 257)
+                    376:if (pixels_tree2[3] <= 655)
+                       Label_tree_2<= 3;
+                    376:else 
+                       Label_tree_2<= 0;
+                  375:else 
+                     Label_tree_2<= 0;
+                374:else 
+                  380:if (pixels_tree2[6] <= 823)
+                    381:if (pixels_tree2[5] <= 413)
+                       Label_tree_2<= 0;
+                    381:else 
+                       Label_tree_2<= 0;
+                  380:else 
+                    384:if (pixels_tree2[3] <= 215)
+                       Label_tree_2<= 0;
+                    384:else 
+                       Label_tree_2<= 0;
+          331:else 
+            387:if (pixels_tree2[5] <= 502)
+               Label_tree_2<= 3;
+            387:else 
+               Label_tree_2<= 0;
+    270:else 
+      390:if (pixels_tree2[5] <= 625)
+        391:if (pixels_tree2[5] <= 316)
+          392:if (pixels_tree2[3] <= 353)
+            393:if (pixels_tree2[5] <= 154)
+              394:if (pixels_tree2[2] <= 365)
+                395:if (pixels_tree2[2] <= 317)
+                   Label_tree_2<= 2;
+                395:else 
+                  397:if (pixels_tree2[1] <= 913)
+                     Label_tree_2<= 2;
+                  397:else 
+                     Label_tree_2<= 0;
+              394:else 
+                400:if (pixels_tree2[6] <= 90)
+                   Label_tree_2<= 2;
+                400:else 
+                   Label_tree_2<= 0;
+            393:else 
+              403:if (pixels_tree2[2] <= 361)
+                 Label_tree_2<= 2;
+              403:else 
+                405:if (pixels_tree2[7] <= 2)
+                  406:if (pixels_tree2[6] <= 832)
+                     Label_tree_2<= 0;
+                  406:else 
+                     Label_tree_2<= 3;
+                405:else 
+                  409:if (pixels_tree2[6] <= 680)
+                     Label_tree_2<= 0;
+                  409:else 
+                    411:if (pixels_tree2[5] <= 202)
+                       Label_tree_2<= 0;
+                    411:else 
+                       Label_tree_2<= 0;
+          392:else 
+            414:if (pixels_tree2[6] <= 9)
+              415:if (pixels_tree2[5] <= 146)
+                 Label_tree_2<= 0;
+              415:else 
+                 Label_tree_2<= 2;
+            414:else 
+              418:if (pixels_tree2[6] <= 1019)
+                419:if (pixels_tree2[6] <= 874)
+                  420:if (pixels_tree2[1] <= 838)
+                    421:if (pixels_tree2[3] <= 373)
+                       Label_tree_2<= 0;
+                    421:else 
+                       Label_tree_2<= 2;
+                  420:else 
+                    424:if (pixels_tree2[6] <= 15)
+                       Label_tree_2<= 2;
+                    424:else 
+                       Label_tree_2<= 2;
+                419:else 
+                  427:if (pixels_tree2[2] <= 324)
+                     Label_tree_2<= 2;
+                  427:else 
+                    429:if (pixels_tree2[6] <= 972)
+                       Label_tree_2<= 2;
+                    429:else 
+                       Label_tree_2<= 2;
+              418:else 
+                432:if (pixels_tree2[5] <= 186)
+                   Label_tree_2<= 0;
+                432:else 
+                   Label_tree_2<= 2;
+        391:else 
+          435:if (pixels_tree2[4] <= 2)
+            436:if (pixels_tree2[1] <= 748)
+              437:if (pixels_tree2[1] <= 716)
+                438:if (pixels_tree2[3] <= 215)
+                   Label_tree_2<= 0;
+                438:else 
+                   Label_tree_2<= 2;
+              437:else 
+                441:if (pixels_tree2[2] <= 381)
+                  442:if (pixels_tree2[2] <= 324)
+                     Label_tree_2<= 2;
+                  442:else 
+                    444:if (pixels_tree2[6] <= 629)
+                       Label_tree_2<= 3;
+                    444:else 
+                       Label_tree_2<= 2;
+                441:else 
+                   Label_tree_2<= 0;
+            436:else 
+              448:if (pixels_tree2[2] <= 361)
+                449:if (pixels_tree2[6] <= 1020)
+                  450:if (pixels_tree2[3] <= 566)
+                     Label_tree_2<= 2;
+                  450:else 
+                    452:if (pixels_tree2[0] <= 0)
+                       Label_tree_2<= 2;
+                    452:else 
+                       Label_tree_2<= 0;
+                449:else 
+                  455:if (pixels_tree2[7] <= 10)
+                     Label_tree_2<= 2;
+                  455:else 
+                     Label_tree_2<= 0;
+              448:else 
+                 Label_tree_2<= 0;
+          435:else 
+            459:if (pixels_tree2[0] <= 0)
+              460:if (pixels_tree2[3] <= 339)
+                461:if (pixels_tree2[5] <= 365)
+                  462:if (pixels_tree2[1] <= 740)
+                     Label_tree_2<= 0;
+                  462:else 
+                    464:if (pixels_tree2[2] <= 354)
+                       Label_tree_2<= 2;
+                    464:else 
+                       Label_tree_2<= 0;
+                461:else 
+                  467:if (pixels_tree2[6] <= 224)
+                    468:if (pixels_tree2[2] <= 420)
+                       Label_tree_2<= 2;
+                    468:else 
+                       Label_tree_2<= 0;
+                  467:else 
+                     Label_tree_2<= 2;
+              460:else 
+                472:if (pixels_tree2[5] <= 446)
+                  473:if (pixels_tree2[2] <= 349)
+                     Label_tree_2<= 2;
+                  473:else 
+                    475:if (pixels_tree2[5] <= 365)
+                       Label_tree_2<= 0;
+                    475:else 
+                       Label_tree_2<= 0;
+                472:else 
+                  478:if (pixels_tree2[2] <= 361)
+                     Label_tree_2<= 2;
+                  478:else 
+                     Label_tree_2<= 0;
+            459:else 
+              481:if (pixels_tree2[2] <= 274)
+                 Label_tree_2<= 2;
+              481:else 
+                483:if (pixels_tree2[7] <= 0)
+                  484:if (pixels_tree2[6] <= 555)
+                     Label_tree_2<= 0;
+                  484:else 
+                     Label_tree_2<= 3;
+                483:else 
+                   Label_tree_2<= 0;
+      390:else 
+         Label_tree_2<= 2;

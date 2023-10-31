@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at de10_standard.v(1888): always construct contains both blocking and non-blocking assignments File: C:/Users/rkarn/Desktop/Quartus Project/Wireless/RF_Lock/de10_standard.v Line: 1888
