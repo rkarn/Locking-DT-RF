@@ -4,6 +4,7 @@ Dependency:
   - Scikit-learn
   - Numpy
   - MNIST Dataset (link provided in ".ipynb" file.)
+  - Accdel, Activities, Wearable, Wireless dataset. The formatted file is available in "approx_dataset_from_frameworkdtrf" folder. TO reproduce it, kindly run the source code available at https://github.com/Brunno815/Framework_DTRF  
   - idx2numpy
     
 The step-by-step annotated source code is available in the Jupyter Notebook file. It uses the MNIST dataset. 
