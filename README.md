@@ -27,7 +27,7 @@ Decision Tree Architecture:
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/decision_tree_diagram.png)
 
 
-Locked Decision Tree Architecture: For Software Simulation/Analysis
+Locked Decision Tree Architecture: For Software Simulation/Analysis and Video Demo of the MNIST dataset.
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/Locked_decision_tree.png)
 
 The same locking for datasets wearable, wireless, activities, and accdel are also given in their respective notebook file. Their dataset csv files are also added.
