@@ -1,0 +1,335 @@
+ // Source code for tree 3.
+   0:if ((pixels_tree3[16] <= 729) ^ key)
+    1:if ((pixels_tree3[10] <= 696) ^ key)
+      2:if ((pixels_tree3[8] <= 504) ^ key)
+        3:if ((pixels_tree3[11] <= 178) ^ key)
+          4:if ((pixels_tree3[8] <= 467) ^ key)
+            5:if ((pixels_tree3[5] <= 1) ^ key)
+              6:if ((pixels_tree3[17] <= 765) ^ key)
+                 Label_tree_3<= 3;
+              6:else 
+                 Label_tree_3<= 3;
+            5:else 
+              9:if ((pixels_tree3[11] <= 122) ^ key)
+                 Label_tree_3<= 1;
+              9:else 
+                 Label_tree_3<= 3;
+          4:else 
+            12:if ((pixels_tree3[13] <= 620) ^ key)
+              13:if ((pixels_tree3[17] <= 773) ^ key)
+                 Label_tree_3<= 4;
+              13:else 
+                 Label_tree_3<= 3;
+            12:else 
+              16:if ((pixels_tree3[14] <= 522) ^ key)
+                 Label_tree_3<= 4;
+              16:else 
+                 Label_tree_3<= 4;
+        3:else 
+          19:if ((pixels_tree3[17] <= 796) ^ key)
+            20:if ((pixels_tree3[14] <= 522) ^ key)
+              21:if ((pixels_tree3[13] <= 622) ^ key)
+                 Label_tree_3<= 3;
+              21:else 
+                 Label_tree_3<= 4;
+            20:else 
+              24:if ((pixels_tree3[11] <= 318) ^ key)
+                 Label_tree_3<= 1;
+              24:else 
+                 Label_tree_3<= 3;
+          19:else 
+            27:if ((pixels_tree3[11] <= 830) ^ key)
+              28:if ((pixels_tree3[13] <= 608) ^ key)
+                 Label_tree_3<= 3;
+              28:else 
+                 Label_tree_3<= 1;
+            27:else 
+              31:if ((pixels_tree3[12] <= 500) ^ key)
+                 Label_tree_3<= 3;
+              31:else 
+                 Label_tree_3<= 1;
+      2:else 
+        34:if ((pixels_tree3[7] <= 472) ^ key)
+          35:if ((pixels_tree3[12] <= 327) ^ key)
+            36:if ((pixels_tree3[9] <= 242) ^ key)
+               Label_tree_3<= 3;
+            36:else 
+              38:if ((pixels_tree3[13] <= 115) ^ key)
+                 Label_tree_3<= 3;
+              38:else 
+                 Label_tree_3<= 0;
+          35:else 
+            41:if ((pixels_tree3[17] <= 854) ^ key)
+              42:if ((pixels_tree3[8] <= 538) ^ key)
+                 Label_tree_3<= 0;
+              42:else 
+                 Label_tree_3<= 0;
+            41:else 
+              45:if ((pixels_tree3[15] <= 870) ^ key)
+                 Label_tree_3<= 1;
+              45:else 
+                 Label_tree_3<= 0;
+        34:else 
+          48:if ((pixels_tree3[8] <= 544) ^ key)
+            49:if ((pixels_tree3[14] <= 525) ^ key)
+              50:if ((pixels_tree3[2] <= 1) ^ key)
+                 Label_tree_3<= 2;
+              50:else 
+                 Label_tree_3<= 0;
+            49:else 
+              53:if ((pixels_tree3[14] <= 558) ^ key)
+                 Label_tree_3<= 1;
+              53:else 
+                 Label_tree_3<= 4;
+          48:else 
+            56:if ((pixels_tree3[15] <= 834) ^ key)
+              57:if ((pixels_tree3[15] <= 756) ^ key)
+                 Label_tree_3<= 3;
+              57:else 
+                 Label_tree_3<= 1;
+            56:else 
+              60:if ((pixels_tree3[10] <= 684) ^ key)
+                 Label_tree_3<= 1;
+              60:else 
+                 Label_tree_3<= 0;
+    1:else 
+      63:if ((pixels_tree3[13] <= 614) ^ key)
+        64:if ((pixels_tree3[14] <= 511) ^ key)
+          65:if ((pixels_tree3[5] <= 0) ^ key)
+            66:if ((pixels_tree3[11] <= 699) ^ key)
+              67:if ((pixels_tree3[16] <= 724) ^ key)
+                 Label_tree_3<= 3;
+              67:else 
+                 Label_tree_3<= 2;
+            66:else 
+              70:if ((pixels_tree3[6] <= 394) ^ key)
+                 Label_tree_3<= 1;
+              70:else 
+                 Label_tree_3<= 3;
+          65:else 
+            73:if ((pixels_tree3[4] <= 1) ^ key)
+              74:if ((pixels_tree3[14] <= 495) ^ key)
+                 Label_tree_3<= 4;
+              74:else 
+                 Label_tree_3<= 4;
+            73:else 
+              77:if ((pixels_tree3[13] <= 613) ^ key)
+                 Label_tree_3<= 4;
+              77:else 
+                 Label_tree_3<= 4;
+        64:else 
+          80:if ((pixels_tree3[6] <= 385) ^ key)
+            81:if ((pixels_tree3[9] <= 531) ^ key)
+              82:if ((pixels_tree3[11] <= 716) ^ key)
+                 Label_tree_3<= 2;
+              82:else 
+                 Label_tree_3<= 3;
+            81:else 
+              85:if ((pixels_tree3[14] <= 534) ^ key)
+                 Label_tree_3<= 2;
+              85:else 
+                 Label_tree_3<= 3;
+          80:else 
+            88:if ((pixels_tree3[17] <= 781) ^ key)
+              89:if ((pixels_tree3[2] <= 1) ^ key)
+                 Label_tree_3<= 3;
+              89:else 
+                 Label_tree_3<= 4;
+            88:else 
+              92:if ((pixels_tree3[14] <= 564) ^ key)
+                 Label_tree_3<= 1;
+              92:else 
+                 Label_tree_3<= 0;
+      63:else 
+        95:if ((pixels_tree3[3] <= 0) ^ key)
+          96:if ((pixels_tree3[9] <= 505) ^ key)
+            97:if ((pixels_tree3[15] <= 754) ^ key)
+               Label_tree_3<= 1;
+            97:else 
+              99:if ((pixels_tree3[13] <= 620) ^ key)
+                 Label_tree_3<= 1;
+              99:else 
+                 Label_tree_3<= 4;
+          96:else 
+            102:if ((pixels_tree3[14] <= 507) ^ key)
+              103:if ((pixels_tree3[12] <= 541) ^ key)
+                 Label_tree_3<= 1;
+              103:else 
+                 Label_tree_3<= 4;
+            102:else 
+              106:if ((pixels_tree3[17] <= 799) ^ key)
+                 Label_tree_3<= 4;
+              106:else 
+                 Label_tree_3<= 3;
+        95:else 
+          109:if ((pixels_tree3[3] <= 1) ^ key)
+            110:if ((pixels_tree3[13] <= 615) ^ key)
+              111:if ((pixels_tree3[6] <= 379) ^ key)
+                 Label_tree_3<= 4;
+              111:else 
+                 Label_tree_3<= 4;
+            110:else 
+              114:if ((pixels_tree3[10] <= 707) ^ key)
+                 Label_tree_3<= 4;
+              114:else 
+                 Label_tree_3<= 4;
+          109:else 
+            117:if ((pixels_tree3[13] <= 632) ^ key)
+              118:if ((pixels_tree3[13] <= 627) ^ key)
+                 Label_tree_3<= 3;
+              118:else 
+                 Label_tree_3<= 2;
+            117:else 
+              121:if ((pixels_tree3[7] <= 463) ^ key)
+                 Label_tree_3<= 4;
+              121:else 
+                 Label_tree_3<= 4;
+  0:else 
+    124:if ((pixels_tree3[14] <= 502) ^ key)
+      125:if ((pixels_tree3[14] <= 251) ^ key)
+        126:if ((pixels_tree3[7] <= 471) ^ key)
+          127:if ((pixels_tree3[10] <= 750) ^ key)
+             Label_tree_3<= 3;
+          127:else 
+            129:if ((pixels_tree3[10] <= 790) ^ key)
+               Label_tree_3<= 2;
+            129:else 
+               Label_tree_3<= 4;
+        126:else 
+          132:if ((pixels_tree3[13] <= 117) ^ key)
+             Label_tree_3<= 2;
+          132:else 
+            134:if ((pixels_tree3[9] <= 533) ^ key)
+              135:if ((pixels_tree3[17] <= 807) ^ key)
+                 Label_tree_3<= 2;
+              135:else 
+                 Label_tree_3<= 3;
+            134:else 
+               Label_tree_3<= 2;
+      125:else 
+        139:if ((pixels_tree3[11] <= 704) ^ key)
+          140:if ((pixels_tree3[13] <= 605) ^ key)
+            141:if ((pixels_tree3[7] <= 471) ^ key)
+              142:if ((pixels_tree3[12] <= 430) ^ key)
+                 Label_tree_3<= 3;
+              142:else 
+                 Label_tree_3<= 4;
+            141:else 
+              145:if ((pixels_tree3[3] <= 0) ^ key)
+                 Label_tree_3<= 2;
+              145:else 
+                 Label_tree_3<= 4;
+          140:else 
+            148:if ((pixels_tree3[10] <= 758) ^ key)
+               Label_tree_3<= 4;
+            148:else 
+              150:if ((pixels_tree3[13] <= 617) ^ key)
+                 Label_tree_3<= 4;
+              150:else 
+                 Label_tree_3<= 4;
+        139:else 
+          153:if ((pixels_tree3[5] <= 0) ^ key)
+            154:if ((pixels_tree3[14] <= 459) ^ key)
+              155:if ((pixels_tree3[12] <= 510) ^ key)
+                 Label_tree_3<= 3;
+              155:else 
+                 Label_tree_3<= 4;
+            154:else 
+              158:if ((pixels_tree3[10] <= 763) ^ key)
+                 Label_tree_3<= 1;
+              158:else 
+                 Label_tree_3<= 4;
+          153:else 
+            161:if ((pixels_tree3[15] <= 750) ^ key)
+              162:if ((pixels_tree3[11] <= 724) ^ key)
+                 Label_tree_3<= 4;
+              162:else 
+                 Label_tree_3<= 4;
+            161:else 
+              165:if ((pixels_tree3[8] <= 462) ^ key)
+                 Label_tree_3<= 4;
+              165:else 
+                 Label_tree_3<= 4;
+    124:else 
+      168:if ((pixels_tree3[13] <= 632) ^ key)
+        169:if ((pixels_tree3[11] <= 649) ^ key)
+          170:if ((pixels_tree3[2] <= 0) ^ key)
+            171:if ((pixels_tree3[12] <= 534) ^ key)
+              172:if ((pixels_tree3[15] <= 732) ^ key)
+                 Label_tree_3<= 3;
+              172:else 
+                 Label_tree_3<= 2;
+            171:else 
+              175:if ((pixels_tree3[9] <= 175) ^ key)
+                 Label_tree_3<= 4;
+              175:else 
+                 Label_tree_3<= 0;
+          170:else 
+            178:if ((pixels_tree3[14] <= 524) ^ key)
+              179:if ((pixels_tree3[9] <= 1) ^ key)
+                 Label_tree_3<= 4;
+              179:else 
+                 Label_tree_3<= 4;
+            178:else 
+              182:if ((pixels_tree3[12] <= 526) ^ key)
+                 Label_tree_3<= 1;
+              182:else 
+                 Label_tree_3<= 4;
+        169:else 
+          185:if ((pixels_tree3[12] <= 518) ^ key)
+            186:if ((pixels_tree3[0] <= 0) ^ key)
+              187:if ((pixels_tree3[8] <= 480) ^ key)
+                 Label_tree_3<= 1;
+              187:else 
+                 Label_tree_3<= 4;
+            186:else 
+              190:if ((pixels_tree3[4] <= 0) ^ key)
+                 Label_tree_3<= 2;
+              190:else 
+                 Label_tree_3<= 3;
+          185:else 
+            193:if ((pixels_tree3[13] <= 585) ^ key)
+              194:if ((pixels_tree3[10] <= 751) ^ key)
+                 Label_tree_3<= 3;
+              194:else 
+                 Label_tree_3<= 4;
+            193:else 
+              197:if ((pixels_tree3[7] <= 453) ^ key)
+                 Label_tree_3<= 0;
+              197:else 
+                 Label_tree_3<= 2;
+      168:else 
+        200:if ((pixels_tree3[1] <= 0) ^ key)
+          201:if ((pixels_tree3[12] <= 524) ^ key)
+            202:if ((pixels_tree3[16] <= 731) ^ key)
+              203:if ((pixels_tree3[17] <= 803) ^ key)
+                 Label_tree_3<= 4;
+              203:else 
+                 Label_tree_3<= 4;
+            202:else 
+              206:if ((pixels_tree3[15] <= 806) ^ key)
+                 Label_tree_3<= 4;
+              206:else 
+                 Label_tree_3<= 2;
+          201:else 
+            209:if ((pixels_tree3[15] <= 751) ^ key)
+              210:if ((pixels_tree3[17] <= 814) ^ key)
+                 Label_tree_3<= 4;
+              210:else 
+                 Label_tree_3<= 2;
+            209:else 
+              213:if ((pixels_tree3[17] <= 781) ^ key)
+                 Label_tree_3<= 4;
+              213:else 
+                 Label_tree_3<= 2;
+        200:else 
+          216:if ((pixels_tree3[14] <= 580) ^ key)
+             Label_tree_3<= 4;
+          216:else 
+            218:if ((pixels_tree3[5] <= 1) ^ key)
+              219:if ((pixels_tree3[15] <= 703) ^ key)
+                 Label_tree_3<= 3;
+              219:else 
+                 Label_tree_3<= 4;
+            218:else 
+               Label_tree_3<= 4;
