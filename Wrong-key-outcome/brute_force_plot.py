@@ -25,13 +25,13 @@ for dt_name in Acc_dict.keys():
 
 c=['r','g','b','c','m']
 m=['s','o','v','^','.']
-fig, ax = plt.subplots(5,1,figsize=(5,6))
+fig, ax = plt.subplots(5,1,figsize=(4.5,5))
 for i,dt_name in enumerate(Acc_dict.keys()):
     ax[i].plot(np.arange(1,len(Acc_dict[dt_name])+1), Acc_dict[dt_name], linestyle=':', color = c[0], fillstyle='none', label='Incorrect key')
     ax[i].plot(np.arange(1,len(Acc_dict[dt_name])+1), correct_key_acc[i] * len(Acc_dict[dt_name]) , linestyle='dashed', color = c[1], fillstyle='none', label='Correct key')
     ax[i].grid(color='k', linestyle=':', linewidth=1)
     ax[i].set_title(f'DT accuracy for {dt_name}', fontsize=10)
-    ax[i].set_yticks([0, 0.2, 0.4, 0.6, 0.8, 1])
+    ax[i].set_yticks([0, 0.25, 0.5, 0.75, 1])
     ax[i].xaxis.set_tick_params(labelbottom=False)
     if i==3: ax[i].set_ylabel('Accuracy (* 100%)') 
     if i==2: ax[i].legend(ncol=2, fontsize = 8)
