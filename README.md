@@ -23,7 +23,7 @@ The generated verilog file is read as `rf<Tree number>_<Dataset name>_lock.v` fo
 
 In folder `Video Demo DecisionTree_locked`, after the `sof` (bitstream) file is generated, it is loaded into the FPGA. The demo of inferencing for the  `XOR_XNOR_buffer_nodes` case (where the random selection is made between XOR, XNOR, and buffer as given in the paper) is shown in the video. The jupyter notebook file to show the inferencing demo is `LockedDecisionTreeInferencing.ipynb`. 
 
-In folder `Brute-force-outcome` the accuracy of the decision tree model for several randomly generated wrong keys (brute-force) are analyzed and compared to the acuracy of the model ocked with correct key.
+In folder `Wrong-key-outcome` the accuracy of the decision tree model for several randomly generated wrong keys are analyzed and compared to the acuracy of the model ocked with correct key.
 
 Decision Tree Architecture:
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/decision_tree_diagram.png)
