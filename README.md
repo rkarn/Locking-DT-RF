@@ -37,5 +37,9 @@ The same locking for datasets wearable, wireless, activities, and accdel are als
 Another Locked Decision Tree Architecture: For HDL generation and verification on the FPGA board
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/Locked_decision_tree_different_ckt.png)
 
+## To locate the source code: 
+- Please login to EC2 instance named `AWS Deeplearning Instance-root`.
+- Go to folder `LogicLocking_RandomForest/Self_Made_Locking`.
+- Locate notebooks in the respective folder with name as five different datasets..
 
 
