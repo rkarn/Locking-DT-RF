@@ -1,6 +1,7 @@
 # Locking Decision Tree and Random Forest
 
 This repository contains the source code of the following paper:
+
 `Karn, R. R.; Knechtel, J. and Sinanoglu, O. (2025). Logic Locking for Random Forests: Securing HDL Design and FPGA Accelerator Implementation.  In Proceedings of the 11th International Conference on Information Systems Security and Privacy - Volume 2, ISBN 978-989-758-735-1, ISSN 2184-4356, pages 463-473.`
 
 Dependency: 
