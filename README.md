@@ -29,6 +29,8 @@ In folder `Video Demo DecisionTree_locked`, after the `sof` (bitstream) file is 
 
 In folder `Wrong-key-outcome` the accuracy of the decision tree model for several randomly generated wrong keys are analyzed and compared to the acuracy of the model ocked with correct key.
 
+Some of the experiments are also captured in the `Archive` repository `https://github.com/rkarn/Locking-DecisionTree-Archive`.
+
 Decision Tree Architecture:
 ![alt text](https://github.com/rkarn/Locking-DT-RF/blob/main/decision_tree_diagram.png)
 
